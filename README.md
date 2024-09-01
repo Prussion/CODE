@@ -1,0 +1,1 @@
+MS is the main function, GAOSI is the posterior probability
